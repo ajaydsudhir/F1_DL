@@ -1,0 +1,25 @@
+# VS Code settings folder
+.vscode/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and output folders (usually large or generated)
+data/
+outputs/
+models/
+
+# Logs
+logs/
+*.log
